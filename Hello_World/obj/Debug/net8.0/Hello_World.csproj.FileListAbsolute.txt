@@ -1,0 +1,15 @@
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\bin\Debug\net8.0\Hello_World.exe
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\bin\Debug\net8.0\Hello_World.deps.json
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\bin\Debug\net8.0\Hello_World.runtimeconfig.json
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\bin\Debug\net8.0\Hello_World.dll
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\bin\Debug\net8.0\Hello_World.pdb
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\obj\Debug\net8.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\obj\Debug\net8.0\Hello_World.AssemblyInfoInputs.cache
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\obj\Debug\net8.0\Hello_World.AssemblyInfo.cs
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\obj\Debug\net8.0\Hello_World.csproj.CoreCompileInputs.cache
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\obj\Debug\net8.0\Hello_World.sourcelink.json
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\obj\Debug\net8.0\Hello_World.dll
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\obj\Debug\net8.0\refint\Hello_World.dll
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\obj\Debug\net8.0\Hello_World.pdb
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\obj\Debug\net8.0\Hello_World.genruntimeconfig.cache
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\obj\Debug\net8.0\ref\Hello_World.dll

@@ -1,0 +1,15 @@
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\bin\Debug\net8.0\Lab06_Exercise01.exe
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\bin\Debug\net8.0\Lab06_Exercise01.deps.json
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\bin\Debug\net8.0\Lab06_Exercise01.runtimeconfig.json
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\bin\Debug\net8.0\Lab06_Exercise01.dll
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\bin\Debug\net8.0\Lab06_Exercise01.pdb
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\obj\Debug\net8.0\Lab06_Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\obj\Debug\net8.0\Lab06_Exercise01.AssemblyInfoInputs.cache
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\obj\Debug\net8.0\Lab06_Exercise01.AssemblyInfo.cs
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\obj\Debug\net8.0\Lab06_Exercise01.csproj.CoreCompileInputs.cache
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\obj\Debug\net8.0\Lab06_Exercise01.sourcelink.json
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\obj\Debug\net8.0\Lab06_Exercise01.dll
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\obj\Debug\net8.0\refint\Lab06_Exercise01.dll
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\obj\Debug\net8.0\Lab06_Exercise01.pdb
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\obj\Debug\net8.0\Lab06_Exercise01.genruntimeconfig.cache
+C:\dotnet\Lab06-CSharp-Strings\Hello_World\Lab06_Exercise01\obj\Debug\net8.0\ref\Lab06_Exercise01.dll
